@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/3column-preview-card-component-FmVIPKPoBT)
-- Live Site URL: [Github Page](https://imjustamygdala.github.io/FrontendMentorChallenges/3-column-preview/)
+- Live Site URL: [Github Page](https://imjustdad.github.io/FrontendMentorChallenges/3-column-preview/)
 
 ## My process
 I really enjoy working with CSS Grid and prefer it to CSS Flex when creating the core structure of a site, for now at least :D. I begin with looking at both mobile and desktop design files so I can determine the HTML5 markup, and then I focus on the mobile design and layout once the core of the HTML is written.
@@ -88,7 +88,7 @@ As I'm learning about semantic HTML, I still don't always know when it's "best p
 
 ### Useful resources
 
-- [Kevin Powell's Youtube](https://www.youtube.com/@KevinPowell) - I utilized what I learned from the previous project, [Product Preview Card Component](https://github.com/imjustamygdala/FrontendMentorChallenges/tree/main/product-preview), which utilized several of Kevin's video's.
+- [Kevin Powell's Youtube](https://www.youtube.com/@KevinPowell) - I utilized what I learned from the previous project, [Product Preview Card Component](https://github.com/imjustdad/FrontendMentorChallenges/tree/main/product-preview), which utilized several of Kevin's video's.
 
 ## Author
 

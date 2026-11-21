@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
-- Live Site URL: [Github Page](https://imjustamygdala.github.io/FrontendMentorChallenges/product-preview/)
+- Live Site URL: [Github Page](https://imjustdad.github.io/FrontendMentorChallenges/product-preview/)
 
 ## My process
 I started with a basic HTML structure and I knew that I would need a container for the product, a container for the image, a container for the product content, and a container for the prices.

@@ -28,7 +28,7 @@ This was a faily simple challenge that took me only an hour or two to have the H
 ### Links
 
 - Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-qrcode-card-using-css-grids-dtSzXOg1s6)
-- Live Site URL: [Github Page](https://imjustamygdala.github.io/FrontendMentorChallenges/qrcode-component/)
+- Live Site URL: [Github Page](https://imjustdad.github.io/FrontendMentorChallenges/qrcode-component/)
 
 ## My process
 

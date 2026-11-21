@@ -8,12 +8,12 @@ I primarly focus on backend web development, and I wanted to find a way to learn
 
 ## Project Links
 - [QRcode Component](./qrcode-component)
-  - [Live Site URL](https://imjustamygdala.github.io/FrontendMentorChallenges/qrcode-component)
+  - [Live Site URL](https://imjustdad.github.io/FrontendMentorChallenges/qrcode-component)
 - [Product Preview](./product-preview)
-  - [Live Site URL](https://imjustamygdala.github.io/FrontendMentorChallenges/product-preview)
+  - [Live Site URL](https://imjustdad.github.io/FrontendMentorChallenges/product-preview)
 - [3 Column Preview](./3-column-preview)
-  - [Live Site URL](https://imjustamygdala.github.io/FrontendMentorChallenges/3-column-preview)
+  - [Live Site URL](https://imjustdad.github.io/FrontendMentorChallenges/3-column-preview)
 - [Four Card Feature](./four-card-feature)
-  - [Live Site URL](https://imjustamygdala.github.io/FrontendMentorChallenges/four-card-feature)
+  - [Live Site URL](https://imjustdad.github.io/FrontendMentorChallenges/four-card-feature)
 - [Huddle Landing - WIP](./huddle-landing)
 - [Advice Generator - WIP](./advice-generator)
